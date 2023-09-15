@@ -1,5 +1,7 @@
 phone
 
 smartphone
+camera
+lens
 scratchguard
 new screen
