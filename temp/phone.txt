@@ -1,6 +1,8 @@
 phone
 
 smartphone
+camera
+lens
 scratchguard
 internet
 music player
