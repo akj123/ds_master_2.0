@@ -2,4 +2,5 @@ phone
 
 smartphone
 scratchguard
+internet
 new screen
